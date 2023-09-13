@@ -1,5 +1,9 @@
 # Final Project
-For your final project, your group will submit a paper describing your experiment and create a presentation for the class. The paper will be due June 14, 11:59pm and the group presentations will take place June 14, 12-3pm.
+For your final project, your group will submit a paper describing your experiment and create a presentation for the class. 
+
+## Due Dates
+The paper will be due June 14, 11:59pm
+The group presentations will take place June 14, 12-3pm
 
 ## Getting Started
 
