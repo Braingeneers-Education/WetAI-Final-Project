@@ -1,6 +1,12 @@
 # Final Project
 For your final project, your group will submit a paper describing your experiment and create a presentation for the class. The paper will be due June 14, 11:59pm and the group presentations will take place June 14, 12-3pm.
 
+## Getting Started
+
+To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're a student eager to delve into the world of perceptrons or an enthusiast looking to sharpen your skills, this assignment will guide you through the essential concepts step by step.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Final-Project?quickstart=1)
+
 ### Extra Credit
 We are offering a minor extra credit opportunity on the final project. Extra credit will be awarded to any team that analyzes the [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) of a spike time tiling coefficient (STTC) matrix created from their data. You created STTC matrices in the Electrophysiology HW and did eigendecomposition in the Eigenvectors HW. Compare this to [principal components analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis). On top of being extra credit, this analysis can count as the "original analysis" you are required to do for your final.
 
