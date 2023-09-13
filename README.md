@@ -3,7 +3,7 @@ For your final project, your group will submit a paper describing your experimen
 
 ## Getting Started
 
-To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're a student eager to delve into the world of perceptrons or an enthusiast looking to sharpen your skills, this assignment will guide you through the essential concepts step by step.
+To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Final-Project?quickstart=1)
 
